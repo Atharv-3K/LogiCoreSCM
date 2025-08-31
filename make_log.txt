@@ -1,0 +1,2 @@
+g++ -std=c++17 -Wall -I./include -I/ucrt64/include -c src/DatabaseManager.cpp -o src/DatabaseManager.o
+make: *** [Makefile:31: src/DatabaseManager.o] Error 1
