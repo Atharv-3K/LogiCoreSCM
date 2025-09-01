@@ -1,1 +1,1 @@
-# VeritasSCM
+# LogiCoreSCM
